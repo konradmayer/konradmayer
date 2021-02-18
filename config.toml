@@ -1,0 +1,22 @@
+theme = "awesome-identity"
+baseURL = "https://konradmayer.rbind.io"
+title = "Konrad Mayer"
+
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait2.jpg"
+  firstname = "Konrad"
+  lastname = "Mayer"
+  title = "DATA SCIENTIST | EDUCATOR | WOOD SCIENTIST | DENDROCHRONOLOGIST"
+  bio = """Scientist at BOKU Vienna at the [BIOnami](http://bionami.at) group, using scientific computing to analyze hyperspectral data. Former dendrochronologist at the [tree-ring research lab](http://dendro.at) with main research interests in the fields of dendroclimatology, -hydrology, as well X-ray densitometry with a focus on intra annual density profiles. Konrad is passionate about scientific programming, particularly in R, data science as well as imaging techniques and is author and maintainer of several R packages ([hyperSpec.utils](https://konradmayer.github.io/hyperSpec.utils/), [iadf](https://cran.r-project.org/package=iadf), [trlboku](https://github.com/konradmayer/trlboku)) as well as apps, among them [peakfit.bionami.at](https://peakfit.bionami.at/) and [oldestwoodenobjects.net](http://oldestwoodenobjects.net/)."""
+
+[params.contacts]
+  github = "konradmayer"
+  orcid = "0000-0002-8803-068X"
+  reseachgate = "Konrad-Mayer"
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019-2020 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = false
